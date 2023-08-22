@@ -1,0 +1,173 @@
+/* title section */
+#title {
+  background-color: #e8e4d9;
+}
+
+.edit-logo {
+height: 200px;
+width: 200px;
+}
+
+
+.top {
+  background-color: #ab7f63;
+}
+
+
+.nav-link {
+  font-size: 2rem;
+  color: #112155;
+  margin: 0 1rem;
+}
+
+.chome {
+  background-color: #ab7f63;
+}
+
+.brandname {
+  padding-top: 25%;
+
+  text-align: center;
+}
+
+.brandslogan {
+
+  text-align: center;
+}
+
+/* featured products */
+#featured-products {
+  background-color: #e8e4d9;
+  padding: 3% 15% 3%;
+}
+
+.fimagesize {
+  width: 98%;
+  margin: 2%;
+}
+
+/* feedback */
+#feedback {
+  background-color: #ab7f63;
+  padding: 3% 15% 3%;
+  text-align: center;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.testimonial-image {
+  width: 80%;
+  margin: 20px;
+}
+
+/* menu */
+#menu {
+  background-color: #e8e4d9;
+  padding: 3% 10% 3%;
+  text-align: center;
+}
+
+.menuimagesize {
+  width: 98%;
+  margin: 2%;
+}
+
+#contacts{
+  background-color: #e8e4d9;
+  font-family: sans-serif;
+}
+.messagetextarea{
+  height: 140px;
+}
+
+/* footer */
+#footer {
+  text-align: center;
+  font-family: sans-serif;
+  background-color: #e8e4d9;
+}
+
+/* general */
+body {
+  font-family: 'Kaushan Script', cursive;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #112155;
+  font-size: 5rem;
+  line-height: 1.5;
+}
+
+h2 {
+  color: #112155;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+
+
+
+
+.footer-container {
+  padding: 10% 15%;
+}
+
+.footer-ico {
+  padding: 3% 1%;
+}
+
+@media (max-width: 1200px) {
+  #feedback {
+    background-color: #ab7f63;
+    padding: 3% 1% 3%;
+    text-align: center;
+  }
+    .carousel-item {
+      padding: 7% 1%;
+    }
+
+    .testimonial-image {
+      width: 100%;
+      margin: 0px;
+    }
+
+/* @media (max-width: 768px) {
+  .edit-logo {
+    display: none;
+  }
+
+  ul {
+    margin-left: 0;
+  }
+
+  .cheescake-img {
+    display: none;
+  }
+
+  .cheescake-img2 {
+    visibility: visible;
+  }
+body{
+  text-align: center;
+}
+
+#feedback {
+  background-color: #ab7f63;
+  padding: 3% 1% 3%;
+  text-align: center;
+}
+  .carousel-item {
+    padding: 7% 1%;
+  }
+
+  .testimonial-image {
+    width: 100%;
+    margin: 0px;
+  }
+
+}
+} */
